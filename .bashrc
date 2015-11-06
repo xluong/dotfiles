@@ -12,7 +12,7 @@ export TERM=linux
 export LOCALE=en_US.UTF-8
 export FTP_PASSIVE_MODE=yes
 
-PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:./
+PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/texbin:./
 PATH=$PATH:/Users/HayesLab/anaconda/bin
 PATH=$PATH:~/PythonCourse/ProgramFiles/cufflinks-2.2.1.OSX_x86_64
 PATH=$PATH:~/PythonCourse/ProgramFiles/tophat-2.0.9.OSX_x86_64 

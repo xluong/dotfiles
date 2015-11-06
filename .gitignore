@@ -1,0 +1,14 @@
+*
+!.*rc
+!.bash_aliases
+!.gitignore
+!.bashrc.*
+!.vim
+!.vim/*
+!.vim/*/*
+!.bashrc
+!.cshrc
+.vim/backup/*
+.vim/swap/*
+.vim/view/*
+.vim/.*

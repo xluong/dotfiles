@@ -8,6 +8,7 @@
 !.vim/*/*
 !.bashrc
 !.cshrc
+!.bash_profile
 .vim/backup/*
 .vim/swap/*
 .vim/view/*
